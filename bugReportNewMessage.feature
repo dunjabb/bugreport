@@ -1,6 +1,7 @@
 # 
 # Bug report - You can't send message without data 
 # Bug: 001
+# Product: Demoblaze product store 
 # OS: Linux 20.24
 # Severity: 
 # Date: 15.6.2022.
